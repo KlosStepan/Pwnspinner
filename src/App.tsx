@@ -4,10 +4,14 @@ import './App.css';
 import { Pwnspinner } from './lib/components/Pwnspinner';
 function App() {
   return (
-    <div className="App">
+    <>
       <Pwnspinner />
-    </div>
-  );
+      <Pwnspinner color="red" />
+      <Pwnspinner color="green" speed={1.9} />
+      <Pwnspinner color="orange" thickness={10} />
+      <Pwnspinner color="blue" speed={0.7} thickness={2} />
+    </>
+  )
 }
 
 export default App;
