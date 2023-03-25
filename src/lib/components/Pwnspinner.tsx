@@ -1,12 +1,11 @@
-//import React from "react";
+import React from "react";
 
 interface PwnspinnerProps {
     color?: string;
     thickness?: number;
     speed?: number;
 }
-//TODO v2 props: color, thickness, speed 
-//TODO v2 css object from props color=red/blue/grey, thickness=1-5 speed=1-10
+
 const Pwnspinner = (props: PwnspinnerProps = {}) => {
     console.log(props);
     const Styles = {
@@ -28,7 +27,7 @@ const Pwnspinner = (props: PwnspinnerProps = {}) => {
             height: '70px',
         },
     };
-    console.log(Styles)
+    //console.log(Styles)
     return (
         <>
             <style type="text/css">
