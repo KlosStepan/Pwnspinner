@@ -1,7 +1,7 @@
 # Pwnspinner - npm package
 
-Simple loading spinner **Pwnspinner** for React.js/TypeScript installable via npm.
-
+Simple loading spinner **Pwnspinner** for React.js/TypeScript installable via npm.  
+Version 2.1.0 is stable TypeScript parametrized version of spinner. Use ^2.1.0.
 ## Available options
 Use `<Pwnspinner/>` with some voluntary props `color, thickness, speed`.
 ```jsx
