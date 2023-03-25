@@ -18,7 +18,7 @@ Use `<Pwnspinner/>` with some of the props `color, thickness, speed`.
   <img src="misc/sliders.png" />
 </p>
 
-## Usecase - pending fetch from API endpoint.
+## Usecase - pending fetch from API endpoint
 ```JSX
 import React, { useEffect, useState } from 'react';
 //Fetches
