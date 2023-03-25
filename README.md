@@ -3,7 +3,7 @@
 Simple loading spinner **Pwnspinner** for React.js/TypeScript installable via npm.
 
 ## Available options
-Use `<Pwnspinner/>` with some of the props `color, thickness, speed`.
+Use `<Pwnspinner/>` with some voluntary props `color, thickness, speed`.
 ```jsx
     <>
       <Pwnspinner />
@@ -18,7 +18,7 @@ Use `<Pwnspinner/>` with some of the props `color, thickness, speed`.
   <img src="misc/sliders.png" />
 </p>
 
-## Usecase - pending fetch from API endpoint
+## Usecase - waiting for API endpoint fetch
 ```JSX
 import React, { useEffect, useState } from 'react';
 //Fetches
@@ -57,6 +57,6 @@ function YourComponent() {
 ___
 
 ## Future development
-Hit us up about what would you like to have added!
+Hit us up about what functionality are you missing!
 https://github.com/KlosStepan/Pwnspinner
 
