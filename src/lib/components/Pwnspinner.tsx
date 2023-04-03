@@ -7,7 +7,7 @@ interface PwnspinnerProps {
 }
 
 const Pwnspinner = (props: PwnspinnerProps = {}) => {
-    console.log(props);
+    //console.log(props);
     const Styles = {
         loadingSpinner: {
             width: '30px',
