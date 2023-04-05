@@ -18,6 +18,9 @@ Use `<Pwnspinner/>` with some voluntary props `color, thickness, speed`.
   <img src="misc/sliders.png" />
 </p>
 
+## Usages
+- Waiting for fetched load to be displayed.
+- Waiting for POST/PUT request response message succ/err.
 ## Usecase - waiting for API endpoint fetch
 ```JSX
 import React, { useEffect, useState } from 'react';
@@ -60,3 +63,5 @@ ___
 Hit us up about what functionality are you missing!
 https://github.com/KlosStepan/Pwnspinner
 
+## TODO list
+- [ ] Parametr `boxing` either small or medium (padding 0 vs normal).
