@@ -1,6 +1,6 @@
 {
   "name": "pwnspinner",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Simple React/TypeScript spinner Pwnspinner for showing spinning wheel while fetching/loading stuff.",
   "main": "dist/index.js",
   "author": "Stepo",

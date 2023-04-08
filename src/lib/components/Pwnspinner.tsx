@@ -24,7 +24,7 @@ const Pwnspinner = (props: PwnspinnerProps = {}) => {
             display: 'grid',
             justifyContent: 'center',
             alignItems: 'center',
-            height: '70px',
+            height: '30px',
         },
     };
     //console.log(Styles)

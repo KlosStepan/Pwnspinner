@@ -58,6 +58,10 @@ function YourComponent() {
 }
 ```
 ___
+## Chainlog
+- 2.1.0 - release
+- 2.1.1 - `console.log(params)` - out
+- 2.1.2 - spinnerContainer set `height:30px;`
 
 ## Future development
 Hit us up about what functionality are you missing!
